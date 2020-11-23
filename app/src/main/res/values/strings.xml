@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">notificationslab5</string>
+    <string name="name">Name</string>
+    <string name="btnSignUp">Sign up</string>
+</resources>
